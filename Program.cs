@@ -70,7 +70,7 @@ namespace ElectronicVotingSystem
 
                 } while (choice != 11);
 
-                Console.WriteLine("\n\t\t\t\t\tBye Bye..Have A Nice Day");
+                Console.WriteLine("\n\t\t\t\t\tBye.");
             }
             catch (Exception ex)
             {
