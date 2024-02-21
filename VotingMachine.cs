@@ -4,6 +4,7 @@ using System.Data.SqlClient;
 using System.IO;
 using System.Text.Json;
 
+
 namespace ElectronicVotingSystem
 {
     static class ConnectionString 
