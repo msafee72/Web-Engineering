@@ -1,2 +1,2 @@
-# BSEF21M057-WEB
-This repository will contain all of my Web Engineering Assignments & Labs.
+# WEB-ENGINEERING
+This repository will contain all of my Web Engineering Homeworks & Assignments.
