@@ -1,2 +1,3 @@
 # WEB-ENGINEERING
-This repository will contain all of my Web Engineering course Homeworks & Assignments.
+This repository contains all of my Web Engineering course homeworks and assignments in C# ASP.NET
+
